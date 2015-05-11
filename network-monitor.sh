@@ -1,4 +1,6 @@
 #!/bin/bash
+# Based on the ideas found in https://raspberrypispot.wordpress.com/2013/07/08/wifi-and-ethernet-dropout-problems-in-raspberry-pi/
+# and code in https://github.com/dirttech/SmartMeter/blob/master/piFix.sh
  
 LOGFILE=/tmp/network-monitor.log
  
