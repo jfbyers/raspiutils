@@ -1,5 +1,5 @@
 # raspiutils
-## Set of utilities for Raspberry Pi 
+## Set of utilities tested in Raspberry Pi 1 Model B (February 2012)
 
 Currently the following utils are available:
 
